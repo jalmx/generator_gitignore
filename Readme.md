@@ -20,13 +20,13 @@ USAGE:
 Just download and move to you want
 
 ```bash
-wget -c https://raw.githubusercontent.com/jalmx/ignore_generator/master/bin/ignore
+wget -c https://raw.githubusercontent.com/jalmx/generator_gitignore/master/bin/ignore
 ```
 
 **Install to PATH**
 
 ```bash
-wget -c https://raw.githubusercontent.com/jalmx/ignore_generator/master/bin/ignore -O $HOME/.local/bin/ignore
+wget -c https://raw.githubusercontent.com/jalmx/generator_gitignore/master/bin/ignore -O $HOME/.local/bin/ignore
 ```
 
 `Note: Change permission to exe`
